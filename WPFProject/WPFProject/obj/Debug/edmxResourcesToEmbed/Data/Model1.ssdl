@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Real_Estate_AgencyModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="AREAS">
+    <Key>
+      <PropertyRef Name="ID_AREA" />
+    </Key>
+    <Property Name="ID_AREA" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TYPE_AREA" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="DEALS">
+    <Key>
+      <PropertyRef Name="ID_DEAL" />
+    </Key>
+    <Property Name="ID_DEAL" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_REAL" Type="int" />
+    <Property Name="ID_CLIENT" Type="int" />
+    <Property Name="ID_PROPOSAL" Type="int" />
+    <Property Name="DATA_DEALS" Type="date" />
+    <Property Name="COMM_REAL" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="PEOPLE">
+    <Key>
+      <PropertyRef Name="ID_PEOPLE" />
+    </Key>
+    <Property Name="ID_PEOPLE" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SURNAME" Type="varchar" MaxLength="50" />
+    <Property Name="NAME" Type="varchar" MaxLength="50" />
+    <Property Name="MIDNAME" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="PROPOSALS">
+    <Key>
+      <PropertyRef Name="ID_PROPOSAL" />
+    </Key>
+    <Property Name="ID_PROPOSAL" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_SELLER" Type="int" />
+    <Property Name="ID_TYPE_OBJECT" Type="int" />
+    <Property Name="ID_AREA" Type="int" />
+    <Property Name="STREET" Type="varchar" MaxLength="50" />
+    <Property Name="FLAT" Type="int" />
+    <Property Name="FLOOR" Type="int" />
+    <Property Name="COUNT_FLOORS" Type="int" />
+    <Property Name="COUNT_ROOMS" Type="int" />
+    <Property Name="TOTAL_AREA" Type="int" />
+    <Property Name="LIVING_AREA" Type="int" />
+    <Property Name="DESCRIPTION" Type="varchar" MaxLength="200" />
+    <Property Name="COST" Type="decimal" Precision="18" Scale="2" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="TYPE_OBJECTS">
+    <Key>
+      <PropertyRef Name="ID_TYPE_OBJECT" />
+    </Key>
+    <Property Name="ID_TYPE_OBJECT" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME_TYPE" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <Association Name="FK_DEALS_PEOPLE">
+    <End Role="PEOPLE" Type="Self.PEOPLE" Multiplicity="0..1" />
+    <End Role="DEALS" Type="Self.DEALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PEOPLE">
+        <PropertyRef Name="ID_PEOPLE" />
+      </Principal>
+      <Dependent Role="DEALS">
+        <PropertyRef Name="ID_CLIENT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DEALS_PEOPLE1">
+    <End Role="PEOPLE" Type="Self.PEOPLE" Multiplicity="0..1" />
+    <End Role="DEALS" Type="Self.DEALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PEOPLE">
+        <PropertyRef Name="ID_PEOPLE" />
+      </Principal>
+      <Dependent Role="DEALS">
+        <PropertyRef Name="ID_REAL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DEALS_PROPOSALS">
+    <End Role="PROPOSALS" Type="Self.PROPOSALS" Multiplicity="0..1" />
+    <End Role="DEALS" Type="Self.DEALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PROPOSALS">
+        <PropertyRef Name="ID_PROPOSAL" />
+      </Principal>
+      <Dependent Role="DEALS">
+        <PropertyRef Name="ID_PROPOSAL" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROPOSALS_AREAS">
+    <End Role="AREAS" Type="Self.AREAS" Multiplicity="0..1" />
+    <End Role="PROPOSALS" Type="Self.PROPOSALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="AREAS">
+        <PropertyRef Name="ID_AREA" />
+      </Principal>
+      <Dependent Role="PROPOSALS">
+        <PropertyRef Name="ID_AREA" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROPOSALS_PEOPLE">
+    <End Role="PEOPLE" Type="Self.PEOPLE" Multiplicity="0..1" />
+    <End Role="PROPOSALS" Type="Self.PROPOSALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PEOPLE">
+        <PropertyRef Name="ID_PEOPLE" />
+      </Principal>
+      <Dependent Role="PROPOSALS">
+        <PropertyRef Name="ID_SELLER" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_PROPOSALS_TYPE_OBJECTS">
+    <End Role="TYPE_OBJECTS" Type="Self.TYPE_OBJECTS" Multiplicity="0..1" />
+    <End Role="PROPOSALS" Type="Self.PROPOSALS" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TYPE_OBJECTS">
+        <PropertyRef Name="ID_TYPE_OBJECT" />
+      </Principal>
+      <Dependent Role="PROPOSALS">
+        <PropertyRef Name="ID_TYPE_OBJECT" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Real_Estate_AgencyModelStoreContainer">
+    <EntitySet Name="AREAS" EntityType="Self.AREAS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DEALS" EntityType="Self.DEALS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PEOPLE" EntityType="Self.PEOPLE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PROPOSALS" EntityType="Self.PROPOSALS" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TYPE_OBJECTS" EntityType="Self.TYPE_OBJECTS" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DEALS_PEOPLE" Association="Self.FK_DEALS_PEOPLE">
+      <End Role="PEOPLE" EntitySet="PEOPLE" />
+      <End Role="DEALS" EntitySet="DEALS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DEALS_PEOPLE1" Association="Self.FK_DEALS_PEOPLE1">
+      <End Role="PEOPLE" EntitySet="PEOPLE" />
+      <End Role="DEALS" EntitySet="DEALS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DEALS_PROPOSALS" Association="Self.FK_DEALS_PROPOSALS">
+      <End Role="PROPOSALS" EntitySet="PROPOSALS" />
+      <End Role="DEALS" EntitySet="DEALS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROPOSALS_AREAS" Association="Self.FK_PROPOSALS_AREAS">
+      <End Role="AREAS" EntitySet="AREAS" />
+      <End Role="PROPOSALS" EntitySet="PROPOSALS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROPOSALS_PEOPLE" Association="Self.FK_PROPOSALS_PEOPLE">
+      <End Role="PEOPLE" EntitySet="PEOPLE" />
+      <End Role="PROPOSALS" EntitySet="PROPOSALS" />
+    </AssociationSet>
+    <AssociationSet Name="FK_PROPOSALS_TYPE_OBJECTS" Association="Self.FK_PROPOSALS_TYPE_OBJECTS">
+      <End Role="TYPE_OBJECTS" EntitySet="TYPE_OBJECTS" />
+      <End Role="PROPOSALS" EntitySet="PROPOSALS" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,286 @@
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csprojAssemblyReference.cache
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\4IS1\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\4IS1\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\App.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csprojAssemblyReference.cache
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csprojAssemblyReference.cache
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\4is1\Горошко\WPFProject\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\App.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csprojAssemblyReference.cache
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\4IS1\WPF\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\App.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\NumericUpDown.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\Syncfusion.Licensing.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.xml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+D:\4is1\Горошко\WPFProject (1)\WPFProject (1)\WPFProject\WPFProject\obj\Debug\WPFProject.csprojAssemblyReference.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.exe.config
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\WPFProject.pdb
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\EntityFramework.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\NumericUpDown.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\Syncfusion.Licensing.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\EntityFramework.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.xml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.AssemblyReference.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\MainWindow.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\RegistrationWindows.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\App.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject_Content.g.cs
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject_MarkupCompile.lref
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\MainWindow.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\AreasPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\DealsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\ProposalsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\PeoplesPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\Pages\TypeObjectsPage.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\RegistrationWindows.baml
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.g.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.Properties.Resources.resources
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.GenerateResource.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CoreCompileInputs.cache
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.csproj.CopyComplete
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.exe
+C:\Users\KIRIL\Desktop\WPF\WPFProject\WPFProject\obj\Debug\WPFProject.pdb
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\NumericUpDown.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\Syncfusion.Licensing.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.dll
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\Syncfusion.SfInput.WPF.xml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\Syncfusion.Shared.WPF.xml
+D:\4IS1\WPF\WPFProject\WPFProject\WPFProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
